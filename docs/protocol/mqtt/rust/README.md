@@ -31,4 +31,3 @@ Please report bug in the issues tracket at [Issue Tracker](https://github.com/qu
 
 Contributors
 ------------
-
