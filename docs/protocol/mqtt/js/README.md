@@ -1,6 +1,6 @@
 <img align="left" width="50" height="50" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" alt="Qubitro MQTT Examples - Javascript">
 
-### Qubitro MQTT Examples - Ruby
+### Qubitro MQTT Examples - Javascript
 
 Javascript MQTT documentation for [Qubitro](www.qubitro.com) IoT (Internet of Things) platform and in sync with [Qubitro Documentation](docs.qubitro.com)
 
