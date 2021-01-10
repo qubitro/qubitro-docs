@@ -6,7 +6,7 @@ Content
 * Protocol
     * MQTT
       
-        <img align="left" width="25" height="25" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/go/go.png" alt="Qubitro MQTT Examples - Go">[Go](./docs/protocol/mqtt/go)
+        <img align="left" width="30" height="30" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/go/go.png" alt="Qubitro MQTT Examples - Go">[Go](./docs/protocol/mqtt/go)
        
         <img align="left" width="25" height="25" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/ruby/ruby.png" alt="Qubitro MQTT Examples - Ruby">[Ruby](./docs/protocol/mqtt/ruby)
         
