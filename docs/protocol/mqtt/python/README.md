@@ -10,7 +10,7 @@ The MQTT protocol is a machine-to-machine (M2M)/"Internet of Things" connectivit
 Contents
 --------
 
-* `docs/protocol/mqtt/python/qubitro_mqtt_publish.py`
+* [MQTT Publish](docs/protocol/mqtt/python/qubitro_mqtt_publish.py)
 * `docs/protocol/mqtt/python/qubitro_mqtt_subscribe.py`
 * `docs/protocol/mqtt/python/qubitro_mqtt_log.py`
 * `docs/protocol/mqtt/python/qubitro_mqtt_disconnect.py`
