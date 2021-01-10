@@ -43,14 +43,10 @@ const QOS: &[i32] = &[1, 1];
  
      if let Err(err) = block_on(async {
 
-              // Get message stream before connecting.
               let mut strm = cli.get_stream(25);
-
-              // Define the set of options for the connection
               let lwt = mqtt::Message::new("test", "Async subscriber lost connection",
                                            mqtt::QOS_1);
       
-
         let conn_opts = mqtt::ConnectOptionsBuilder::new()
             .user_name(device_id)
             .password(device_token)
@@ -64,7 +60,6 @@ const QOS: &[i32] = &[1, 1];
         println!("Subscribing to topics: {:?}", TOPICS);
         cli.subscribe_many(TOPICS, QOS).await?;
 
-        // Just loop on incoming messages.
         println!("Waiting for messages...");
 
         while let Some(msg_opt) = strm.next().await {
@@ -72,11 +67,9 @@ const QOS: &[i32] = &[1, 1];
                 println!("{}", msg);
             }
             else {
-                // A "None" means we were disconnected. Try to reconnect...
                 println!("Lost connection. Attempting reconnect.");
                 while let Err(err) = cli.reconnect().await {
                     println!("Error reconnecting: {}", err);
-                    // For tokio use: tokio::time::delay_for()
                     thread::sleep(Duration::from_secs(2))
                 }
             }
