@@ -17,7 +17,7 @@ Contents
 Installation
 ------------
 
-Copy and paste any example into [MQTT Subscribe](./qubitro-mqtt/src/main.rs)
+Copy and paste any example into [main.rs](./qubitro-mqtt/src/main.rs)
 
 Visit [Qubitro Documentation](https://docs.qubitro.com/client-guides/setup-device/go)
 
