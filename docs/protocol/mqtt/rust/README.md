@@ -17,9 +17,12 @@ Contents
 Installation
 ------------
 
-Copy and paste any example into [main.rs](./qubitro-mqtt/src/main.rs)
+* Copy and paste any example into [main.rs](./qubitro-mqtt/src/main.rs)
+* Copy and paste credentials from Qubitro Portal
+* `cargo build`
+* `cargo run`
 
-Visit [Qubitro Documentation](https://docs.qubitro.com/client-guides/setup-device/go)
+or Visit [Qubitro Documentation](https://docs.qubitro.com/client-guides/setup-device/go)
 
 Reporting bugs
 ------------
