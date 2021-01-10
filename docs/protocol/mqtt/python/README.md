@@ -1,7 +1,7 @@
 Qubitro MQTT Examples - Python
 ================================
 
-Python MQTT documentation for @qubitro IoT (Internet of Things) platform and in sync with [Qubitro Documentation](docs.qubitro.com)
+Python MQTT documentation for [Qubitro](www.qubitro.com) IoT (Internet of Things) platform and in sync with [Qubitro Documentation](docs.qubitro.com)
 
 Examples are built with [Paho Python MQTT Client](https://github.com/eclipse/paho.mqtt.python)
 
