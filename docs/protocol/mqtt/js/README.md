@@ -17,7 +17,7 @@ Contents
 Installation
 ------------
 
-Visit [Qubitro Documentation](https://docs.qubitro.com/client-guides/setup-device/ruby)
+Visit [Qubitro Documentation](https://docs.qubitro.com/client-guides/setup-device/javascript)
 
 Reporting bugs
 ------------
