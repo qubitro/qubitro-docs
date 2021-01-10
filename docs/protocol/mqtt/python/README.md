@@ -1,4 +1,4 @@
-<img align="left" width="50" height="50" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" alt="Qubitro MQTT Examples - Python"/>
+<img align="left" width="37.5" height="37.5" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" alt="Qubitro MQTT Examples - Python"/>
 
 ### Qubitro MQTT Examples - Python
 
