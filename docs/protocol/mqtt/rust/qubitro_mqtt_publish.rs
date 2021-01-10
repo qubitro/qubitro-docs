@@ -35,7 +35,6 @@ fn main() {
             .user_name(dev_id)
             .ssl_options(mqtt::ssl_options::SslOptionsBuilder::new().finalize())
             .finalize();
-
         cli.connect(conn_opts).await?;
 
         // Create a message and publish it
