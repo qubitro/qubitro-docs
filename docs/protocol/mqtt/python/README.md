@@ -1,6 +1,6 @@
 <img align="left" width="60.5" height="60.5" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" alt="Qubitro MQTT Examples - Python"/>
 
-# Qubitro MQTT Examples - Python
+Qubitro MQTT Examples - Python
 
 Python MQTT documentation for [Qubitro](www.qubitro.com) IoT (Internet of Things) platform and in sync with [Qubitro Documentation](docs.qubitro.com)
 
