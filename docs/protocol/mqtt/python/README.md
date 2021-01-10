@@ -11,9 +11,9 @@ Contents
 --------
 
 * [MQTT Publish](./qubitro_mqtt_publish.py)
-* `docs/protocol/mqtt/python/qubitro_mqtt_subscribe.py`
-* `docs/protocol/mqtt/python/qubitro_mqtt_log.py`
-* `docs/protocol/mqtt/python/qubitro_mqtt_disconnect.py`
+* [MQTT Subscribe](./qubitro_mqtt_subscribe.py)
+* [MQTT Log](./qubitro_mqtt_log.py)
+* [MQTT Disconnect](./qubitro_mqtt_disconnect.py)
 
 Installation
 ------------
