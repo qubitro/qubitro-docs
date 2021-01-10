@@ -23,4 +23,4 @@ Visit [Qubitro Documentation](https://docs.qubitro.com/client-guides/setup-devic
 Reporting bugs
 ------------
 
-Please report bug in the issues tracket at [Issue Tracker](https://github.com/qubitro/qubitro-examples/issues)
+Please report bug in the issues tracket at [Issue Tracker](https://github.com/qubitro/qubitro-docs/issues)
