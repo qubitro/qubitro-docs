@@ -2,7 +2,7 @@
 
 ### Qubitro MQTT Examples - Ruby
 
-Ruby MQTT documentation for [Qubitro](www.qubitro.com) IoT (Internet of Things) platform and in sync with [Qubitro Documentation](docs.qubitro.com)
+Ruby MQTT documentation for [Qubitro](www.qubitro.com) IoT (Internet of Things) platform in sync with [Qubitro Documentation](docs.qubitro.com)
 
 Examples are built with [Qubitro Ruby MQTT Client](https://rubygems.org/gems/qubitro-mqtt)
 

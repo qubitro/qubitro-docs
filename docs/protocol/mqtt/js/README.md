@@ -2,7 +2,7 @@
 
 ### Qubitro MQTT Examples - Javascript
 
-Javascript MQTT documentation for [Qubitro](www.qubitro.com) IoT (Internet of Things) platform and in sync with [Qubitro Documentation](docs.qubitro.com)
+Javascript MQTT documentation for [Qubitro](www.qubitro.com) IoT (Internet of Things) platform in sync with [Qubitro Documentation](docs.qubitro.com)
 
 Examples are built with [MQTT.js](https://github.com/mqttjs)
 
