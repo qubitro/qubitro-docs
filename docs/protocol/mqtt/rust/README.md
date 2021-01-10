@@ -11,11 +11,13 @@ The MQTT protocol is a machine-to-machine (M2M)/"Internet of Things" connectivit
 Contents
 --------
 
-* [MQTT Publish](./qubitro_mqtt_publish.go)
-* [MQTT Subscribe](./qubitro_mqtt_subscribe.go)
+* [MQTT Publish](./qubitro_mqtt_publish.rs)
+* [MQTT Subscribe](./qubitro_mqtt_subscribe.rs)
 
 Installation
 ------------
+
+Copy and paste any example into [MQTT Subscribe](./qubitro-mqtt/src/main.rs)
 
 Visit [Qubitro Documentation](https://docs.qubitro.com/client-guides/setup-device/go)
 
